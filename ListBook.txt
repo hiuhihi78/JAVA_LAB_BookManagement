@@ -1,0 +1,4 @@
+101	kha banh	5	100.0
+105	manh con	10	85.0
+102	bui xuan	1	55.0
+103	duc hieu	2	33.0
